@@ -1,5 +1,3 @@
-
-
 # <img width="50" src="https://github.com/ritikushwaha/Footprint-Biometric-Project/blob/master/Mnit_logo.png" /> KADAM: FOOTPRINT DATASET <img width="50" src="https://github.com/ritikushwaha/Footprint-Biometric-Project/blob/master/namesfoot.png" />
 
 **DOI:** https://doi.org/10.1007/s10462-020-09887-6 \
