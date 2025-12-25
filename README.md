@@ -4,10 +4,13 @@ This project is about foot print dataset generation and identification. Footprin
 
 This repository contains the code for shape descriptors and Eigen Feature extraction from foot dataset.
 
-Highlights
-    Footprint annotated largest dataset at different resolutions and angles for person recognition of 168 people from geographically diverse places.
-    Two phase data collection of 1360 images at three different resolutions from more than 160 people.
-    Dataset from diverse category of people having different profession from Indian ethnicity involving service class, labor class, and college students.
+Highlights:
+
+    <ul>
+    <li>Footprint annotated largest dataset at different resolutions and angles for person recognition of 168 people from geographically diverse places.</li>
+    <li>Two phase data collection of 1360 images at three different resolutions from more than 160 people.</li>
+    <li>Dataset from diverse category of people having different profession from Indian ethnicity involving service class, labor class, and college students.</li>
+    </ul>
 
 Contributors: Riti Kushwaha, Prof Neeta Nain, Gaurav Singal
 
