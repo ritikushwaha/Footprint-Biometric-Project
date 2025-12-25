@@ -1,4 +1,4 @@
-# FOOTPRINT DATASET, MNIT JAIPUR
+# KADAM: FOOTPRINT DATASET
 
 **DOI:** https://doi.org/10.1007/s10462-020-09887-6 \
 **Contributors:** Riti Kushwaha, Neeta Nain, Gaurav Singal \
