@@ -1,4 +1,4 @@
-This project is about foot print dataset generation and identification. Footprint dataset developed at the Department of Computer Science and Engineering of the Malaviya National Institute of Technology as part of post doctorate research project. A database for off-line footprint images for personal verification is developed. Data set is collected from persons of different age, gender, profession and educational qualification. The footprint images are stored as images in JPG image format for efficient use. The dataset consists of more than 1300 images of their original size with manually annotated name, age, gender fields. Data are also collected from person from different geographical locations of India.
+<img width="537" height="497" alt="image" src="https://github.com/user-attachments/assets/37ab98d0-b852-4184-8964-06a21bc5ffc4" />This project is about foot print dataset generation and identification. Footprint dataset developed at the Department of Computer Science and Engineering of the Malaviya National Institute of Technology as part of post doctorate research project. A database for off-line footprint images for personal verification is developed. Data set is collected from persons of different age, gender, profession and educational qualification. The footprint images are stored as images in JPG image format for efficient use. The dataset consists of more than 1300 images of their original size with manually annotated name, age, gender fields. Data are also collected from person from different geographical locations of India.
 
 This repository contains the code for shape descriptors and Eigen Feature extraction from foot dataset.
 
@@ -7,7 +7,9 @@ Highlights
     Two phase data collection of 1360 images at three different resolutions from more than 160 people.
     Dataset from diverse category of people having different profession from Indian ethnicity involving service class, labor class, and college students.
 
-More Details: https://gauravsingal.in/footprint.html
+Contributors: Riti Kushwaha, Prof Neeta Nain, Gaurav Singal
+
+More Details: https://sites.google.com/view/ritikushwaha/footprint-biometric
 
 Published Articles/ References: 
 1. Riti Kushwaha, Neeta Nain. PUG-FB : Person-verification using geometric and Haralick features of footprint biometric. Multimed Tools Appl 79, 2671–2701 (2020). https://doi.org/10.1007/s11042-019-08149-0
